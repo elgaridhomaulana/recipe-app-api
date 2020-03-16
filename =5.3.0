@@ -1,0 +1,4 @@
+Collecting Pillow
+  Using cached https://files.pythonhosted.org/packages/f5/79/b2d5695d1a931474fa68b68ec93bdf08ba9acbc4d6b3b628eb6aac81d11c/Pillow-7.0.0-cp37-cp37m-manylinux1_x86_64.whl
+Installing collected packages: Pillow
+Successfully installed Pillow-7.0.0
